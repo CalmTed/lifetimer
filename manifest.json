@@ -1,0 +1,22 @@
+{
+    "short_name": "LifeTimmer",
+    "name": "LifeTimmer",
+    "description": "Visuliznig lived months and life expectancy based on country",
+    "icons": [
+        {
+            "src": "logo192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "background_color": "#000000",
+    "display": "minimal-ui",
+    "screenshots": [
+        {
+          "src": "/screenshot.png",
+          "type": "image/png",
+          "sizes": "1041x635"
+        }
+    ]
+
+}
