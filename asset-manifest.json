@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/lifetimer/static/css/main.5f8a644d.chunk.css",
-    "main.js": "/lifetimer/static/js/main.dbdf779f.chunk.js",
-    "main.js.map": "/lifetimer/static/js/main.dbdf779f.chunk.js.map",
+    "main.css": "/lifetimer/static/css/main.f418d1f1.chunk.css",
+    "main.js": "/lifetimer/static/js/main.8dbf9c61.chunk.js",
+    "main.js.map": "/lifetimer/static/js/main.8dbf9c61.chunk.js.map",
     "runtime-main.js": "/lifetimer/static/js/runtime-main.e0374149.js",
     "runtime-main.js.map": "/lifetimer/static/js/runtime-main.e0374149.js.map",
     "static/css/2.7c7f5b6f.chunk.css": "/lifetimer/static/css/2.7c7f5b6f.chunk.css",
-    "static/js/2.3ef0b896.chunk.js": "/lifetimer/static/js/2.3ef0b896.chunk.js",
-    "static/js/2.3ef0b896.chunk.js.map": "/lifetimer/static/js/2.3ef0b896.chunk.js.map",
+    "static/js/2.b1a28bc5.chunk.js": "/lifetimer/static/js/2.b1a28bc5.chunk.js",
+    "static/js/2.b1a28bc5.chunk.js.map": "/lifetimer/static/js/2.b1a28bc5.chunk.js.map",
     "index.html": "/lifetimer/index.html",
     "static/css/2.7c7f5b6f.chunk.css.map": "/lifetimer/static/css/2.7c7f5b6f.chunk.css.map",
-    "static/css/main.5f8a644d.chunk.css.map": "/lifetimer/static/css/main.5f8a644d.chunk.css.map",
-    "static/js/2.3ef0b896.chunk.js.LICENSE.txt": "/lifetimer/static/js/2.3ef0b896.chunk.js.LICENSE.txt",
+    "static/css/main.f418d1f1.chunk.css.map": "/lifetimer/static/css/main.f418d1f1.chunk.css.map",
+    "static/js/2.b1a28bc5.chunk.js.LICENSE.txt": "/lifetimer/static/js/2.b1a28bc5.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/lifetimer/static/media/outline-icons.ddae9b1b.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.e0374149.js",
     "static/css/2.7c7f5b6f.chunk.css",
-    "static/js/2.3ef0b896.chunk.js",
-    "static/css/main.5f8a644d.chunk.css",
-    "static/js/main.dbdf779f.chunk.js"
+    "static/js/2.b1a28bc5.chunk.js",
+    "static/css/main.f418d1f1.chunk.css",
+    "static/js/main.8dbf9c61.chunk.js"
   ]
 }
